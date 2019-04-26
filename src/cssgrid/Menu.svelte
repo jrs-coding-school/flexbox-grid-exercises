@@ -12,7 +12,10 @@
       <li><a href="/cssgrid/1">Exercise 1</a></li>
       <li><a href="/cssgrid/2">Exercise 2</a></li>
       <li><a href="/cssgrid/3">Exercise 3</a></li>
-    </ul>
+      <li><a href="/cssgrid/4">Exercise 4</a></li>
+      <li><a href="/cssgrid/5">Exercise 5</a></li>
+      <li><a href="/cssgrid/6">Exercise 6</a></li>
+     </ul>
   </div>
 </section>
 <style>

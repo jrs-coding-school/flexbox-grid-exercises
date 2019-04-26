@@ -12,6 +12,11 @@ import GridMenu from './cssgrid/Menu.svelte'
 import Grid1 from './cssgrid/1.html'
 import Grid2 from './cssgrid/2.html'
 import Grid3 from './cssgrid/3.html'
+import Grid4 from './cssgrid/4.html'
+import Grid5 from './cssgrid/5.html'
+import Grid6 from './cssgrid/6.html'
+
+
 
 
 
@@ -30,6 +35,10 @@ router('/cssgrid', () => page = GridMenu)
 router('/cssgrid/1', () => page = Grid1)
 router('/cssgrid/2', () => page = Grid2)
 router('/cssgrid/3', () => page = Grid3)
+router('/cssgrid/4', () => page = Grid4)
+router('/cssgrid/5', () => page = Grid5)
+router('/cssgrid/6', () => page = Grid6)
+
 
 
 router.start()
